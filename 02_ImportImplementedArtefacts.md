@@ -21,5 +21,5 @@ Perform the following steps:
 
 6. Check success by example
 
-   As a result you should see now the custom tables we need for our application that all start with the prefix "IMP" as sown below:
+   As a result you should see now the custom tables we need for our application that all start with the prefix "IMP" as shown below:
    <br><img src="./images/imp_sol_step_check.png" /><br>
