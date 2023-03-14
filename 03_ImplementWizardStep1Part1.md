@@ -48,7 +48,7 @@ Let's now implement the content for which we need an additional container (to bl
   <br><img src="./images/wiz_layout_fill.png" /><br>
   Adjust the following peoperties as follows:
   * Activate flexible height if not already done
-  * Set the first figure of `Fill posrtions' to `0.8`which corresonds to 80 percent of the space
+  * Set the first figure of `Fill portions' to `0.8`which corresonds to 80 percent of the space
   * make sure that the `Alignment in container` is as shown
 
 * Rename the newly added control to `Content_Create`
